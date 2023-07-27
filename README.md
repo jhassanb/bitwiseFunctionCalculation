@@ -1,7 +1,7 @@
 # bitwiseFunctionCalculation
 This project included solving eight coding puzzles using bitwise functions and a heavy set of restrictions regarding what bitwise operators can be used and the maximum number of bitwise operators allowed. 
 # PuzzlesIncluded
-**************************
+**********
 * Bitwise AND (&) using only the operators NOT (~) and OR (|)
 * Bitwise IMPLY gate using only the operators NOT (~) and OR (|)
 * Returning an integer with every fourth bit set to 1 using only the operators ! ~ & ^ | + << >>
